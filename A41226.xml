@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Factum of the French, and other Protestants in the Savoy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41226</idno>
+            <idno type="STC">Wing F80B</idno>
+            <idno type="STC">ESTC R213681</idno>
+            <idno type="EEBO-CITATION">99826003</idno>
+            <idno type="PROQUEST">99826003</idno>
+            <idno type="VID">30395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30395)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1758:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Factum of the French, and other Protestants in the Savoy.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30395:1"/>
+            <pb n="1" facs="tcp:30395:1"/>
+            <head>Factum OF THE FRENCH, AND OTHER PROTESTANTS IN THE SAVOY.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat as well the ſafety as the glory of a Land conſiſts in the well-peopling of its Towns, and the great number of its Inhabitants, is a truth clear and unqueſtionable; and that the union of thoſe Inhabitants in matter of Religion, is the aſſurance and ſecurity of ſuch a Land, is another as little to be controverted. Civil diſ<g ref="char:EOLhyphen"/>ſentions contribute not more to ruine a Kingdom, than union and a fair underſtanding to the peace and welfare of it; by the one the ſtrongeſt foundations are ſhaken, but by the other the whole fa<g ref="char:EOLhyphen"/>brick is ſupported and rend'red unmoveable: and of all diſſenti<g ref="char:EOLhyphen"/>ons that can befall a Nation, thoſe about Religion are the worſt, the moſt plauſible in their pretences, the moſt dreadful in their conſequences, and the firſt to be provided againſt.</p>
+            <p>It was on that conſideration, that the wiſe Queen <hi>Elizabeth</hi> re<g ref="char:EOLhyphen"/>ceived thoſe that in ſuch great numbers were forced to forſake their Countrey (by the violent perſecution of them for their Reli<g ref="char:EOLhyphen"/>gions ſake) into <hi>England;</hi> although the number of its Inhabitants then, yielded not in the leaſt to that of our days, aſſigned them Towns to dwell in, gave them Churches and Priviledges, with the publick exerciſe of their Religion: and it was no doubt the ſame conſideration that moved the wiſe and excellent Prince, un<g ref="char:EOLhyphen"/>der whoſe Protection we now live, by ſeveral Proclamations, to invite diſtreſſed Proteſtants beyond Sea, to take refuge in his King<g ref="char:EOLhyphen"/>dom, declaring himſelf their Protector, and by many daily acts in their favour, confirming his pious intentions to continue ſo ſtill.
+<pb n="2" facs="tcp:30395:2" rendition="simple:additions"/>If Kings are generally ſtiled the Fathers of their Countrey, we may ſay of this Prince, that he is ours in a ſpecial manner, for both in War and Peace, he hath been graciouſly pleaſed to pro<g ref="char:EOLhyphen"/>tect us, allowing us a Church, maintaining our Miniſters in part, and by daily repeated marks of his good will towards us, encou<g ref="char:EOLhyphen"/>rage our brethren abroad, to partake of the benefit of his power<g ref="char:EOLhyphen"/>ful protection, who flock hither in great numbers: and certainly if His Majeſties Subjects did follow his pious and diſcreet exam<g ref="char:EOLhyphen"/>ple, we ſhould in few years ſee ſo great an affluence of Proteſtants, as would be ſufficient to people thoſe many quarters, both in Town and Countrey, which are now not Inhabited, for they de<g ref="char:EOLhyphen"/>ſire but a ſafe retreat to ſerve God in peace, which they are ſure not to meet with in any place or Kingdom, where the <hi>Romiſh</hi> Re<g ref="char:EOLhyphen"/>ligion hath any Power or Intereſt, nor indeed in any other Coun<g ref="char:EOLhyphen"/>trey, though of their own belief, ſo well as in this.</p>
+            <p>Several great men of the Nation, after their Kings example, have greatly endeavoured to oblige the diſtreſs'd Proteſtants of forreign Countreys, to come over and occupy the many waſte Lands that they have here and in <hi>Ireland,</hi> and their endeavours have not been altogether vain, for we ſee Lands that were but a charge to the owners, become faſt and fruitful ſoils to the owners, and not onely thoſe worthy and charitable Perſons invite others over, but favour, countenance, and ſupport thoſe that are already here; our Church is often honoured with the Preſence of His Majeſties Privy Counſellors, Secretaries of State, and other great Officers of the Kingdom; and indeed, it's through that means that our Church does almoſt wholly ſubſiſt, the Contributions of ſuch <hi>French</hi> Families as are able, being very inconſiderable. The wor<g ref="char:EOLhyphen"/>thy Biſhop of the City vouchſafes to come there ſometimes, who does ſo paſſionately deſire our good, as to maintain many of our Proſelites, who might elſe, but for his help and pious aſſiſtance, be in a very needy condition: for there are many of them, and the Church but poor and unable to furniſh what their neceſſities re<g ref="char:EOLhyphen"/>quire, though each of them ſhould have but three, as they that have moſt, have but four ſhillings a week.</p>
+            <p>The coming and continuing of Proteſtants into this Kingdom can ſo little prejudice, as it muſt needs be of advantage to it; they come with an intention to live and dye here, bring with them not only their Arts and Sciences, but what Eſtate they have: we con<g ref="char:EOLhyphen"/>form to the Church of <hi>England</hi> in all things, as it is now eſtabliſhed and authoriſed, pay double Pariſh Duties, which we are told we muſt,<note place="margin">Pigeon. Roche. Bollave. Gori. Iſacq. &amp;c. <hi>have con<g ref="char:EOLhyphen"/>vey<g ref="char:punc">▪</g>d their Eſtates into</hi> France.</note> being ſtrangers <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now if (as the Papiſts who are in greater numbers than we) we ſhould ſpeak evil of Dignities, infect His Majeſties Subjects with falſe and damnable Principles, to draw them from their allegiance, and ſeduce them to diſobedience and ſedition: or like them, get Eſtates here, then convey them and our ſelves home again; ſo ſpending abroad what we got here, we con<g ref="char:EOLhyphen"/>feſs that in ſuch caſe we ſhould deſerve to be as hardly dealt withal,
+<pb n="3" facs="tcp:30395:2"/>as now we are: but there is nothing leſs, nor can one inſtance or example be produced of any Proteſtant, who after he had en<g ref="char:EOLhyphen"/>riched himſelf here, returned to his own Countrey, but contrarily, we leave what Eſtates we get to our Children after us, and make it our buſineſs to faſhion and bring them up to the ways and cu<g ref="char:EOLhyphen"/>ſtoms of the Countrey, and they often ſo far anſwer that Edu<g ref="char:EOLhyphen"/>cation, as not to ſpeak two words of good <hi>French.</hi>
+            </p>
+            <p>Now for our belief, 'tis the ſame with that of the Countrey, we own no Superior to the King, but God only, and every where, and upon all occaſions, declare that he is not of our Faith, that will not do as he is commanded, Fear God, and Honour the King; and if of late ſome have endeavoured to perſwade people here, that the contrary is believed and taught by our brethren abroad; we proteſt that it is an injuſtice, and falſe aſſertion, craftily given out by the ſecret favourers of the <hi>Romiſh</hi> Religion, to render us odi<g ref="char:EOLhyphen"/>ous to the people, and further the intereſt of the other party, by an outward appearance of deſiring earneſtly, and more than any others, the good of the King and his people, though ſuch perſons are nothing leſs than what they ſeem, and do really in ſecret, wiſh the deſtruction of both, as their Principles and actions do too-well aſſure us: which occaſioned King <hi>James</hi> to ſay, that he did not ſee how it was poſſible for a man to be a good Subject, and a good Papiſt, a Truth too-well known, and which the experience of many years hath made good and confirmed; for indeed the inte<g ref="char:EOLhyphen"/>reſt of the Kings of <hi>England,</hi> and thoſe of the Pope, being ſo dif<g ref="char:EOLhyphen"/>ferent and exactly oppoſite and contrary; how is it poſſible for a man really to deſire the good of the one, when he actually en<g ref="char:EOLhyphen"/>deavours to promote, and as far as he can, advances the intereſt of the other.</p>
+            <p>Theſe one would think ſhould be ſufficient reaſons to oblige the people here to a kind and loving reception of us, as former<g ref="char:EOLhyphen"/>ly they did when they conſidered the reaſon and occaſion of our coming hither, for the free exerciſe of our Religion, deli<g ref="char:EOLhyphen"/>verance of perſecutions, and avoiding of temptations, which are there very frequent: yet we find ſo great an averſion in them, from us, as to envy us the bread we get by our honeſt and hard labours, and would compell us to return under the perſecution we fled, or which is little (if at all) better to dwell here as once the <hi>Jews</hi> did in <hi>Egypt,</hi> a kind of ſlaves to take all the pains, and they reap all the fruits: a ſad choice and a hard uſage, which can<g ref="char:EOLhyphen"/>not be believed by our brethren abroad, who look upon this Land as a Sanctuary and refuge of Proteſtants, and who, in that conſideration, rejoyce for its good, and take part in its misfortunes: yet it is true, that we are ſo dealt withal by the Maſters and Over<g ref="char:EOLhyphen"/>ſeers of the Companies, who, to palliate that unkindneſs to us, with the face of Authority, alledge an Act of Parliament in the Reign of Queen <hi>Elizabeth,</hi> by which Act it is Provided, <hi>That all ſuch us have not ſerved ſeven years to their Trades, ſhall be obliged
+<pb n="4" facs="tcp:30395:3"/>to certain payments,</hi> which they require of us, but that is but a weak pretext, for the ſame Parliament, almoſt at the ſame time, invites the perſecuted Proteſtants of <hi>Flanders,</hi> and of other Countreys, to take refuge here, with full leave to work in their ſeveral Callings, which ſhews that other Act concerns not them, nor conſequently the Proteſtants at this day, whoſe caſe is the ſame with theirs of thoſe times. Nor can it be ſuppoſed, that ſo wiſe a Queen and Parliament would onely invite us hither to com<g ref="char:EOLhyphen"/>pell us to return again; for what elſe in effect is the hindering of us to work and labour in our Callings, without which it is im<g ref="char:EOLhyphen"/>poſſible to ſubſiſt? and it is plain, that the end and deſign of that Act, was to provide againſt a miſchief of that time; when ſeve<g ref="char:EOLhyphen"/>ral ſet up Maſters, who had never ſerved to their Trades, and by that Ignorance and ſmall abilities in them, cauſed great incon<g ref="char:EOLhyphen"/>veniencies.</p>
+            <p>Surely if Chriſtian Charity did not oblige us to the contrary, we might not improbably believe, that theſe men that haraſs and torment us, have little or no Religion, (ſince they delight to af<g ref="char:EOLhyphen"/>flict them that are afflicted for it) or miſ-affected to the good of the Prince and his People, that act ſo directly contrary to the intentions of the one, and trouble the quiet and repoſe of the other, or elſe perſons inclined to favour the <hi>Romiſh</hi> party, ſince they doe to us here, as they do in our own Countrey: but we hope that thoſe perſons will ceaſe that uſage, and conſider that one of the main Duties of a Chriſtian, is to give Bread to the hungry, and that Hoſpitality is a Virtue greatly recommended.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30395:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
